@@ -4,6 +4,7 @@
 .menu-container{
     display: flex;
     justify-content: space-between;
+    margin: 0px 200px;
 }
 *{
     font-family: 'Open Sans', sans-serif;
@@ -30,7 +31,18 @@
     background-color: orange;
     border: 0;
     color: white;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 700;
     padding: 15px 30px;
+}
+.header{
+    background-color: #FFF8F3;
+}
+.banner{
+    padding-left: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.picture-1{
+    width: 400px;
 }
